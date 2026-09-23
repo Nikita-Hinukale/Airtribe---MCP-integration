@@ -1,0 +1,1 @@
+Candidate resume storage folder.
